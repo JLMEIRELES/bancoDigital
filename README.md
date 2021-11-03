@@ -44,7 +44,7 @@ ultilizando o metodo POST, passando como parametro cpf, numero, agencia. Exemplo
 
 ``` 
 {
-"cpf" : "70801167167",
+"cpfCliente" : "70801167167",
 "numero" : 222,
 "agencia" 222
 }
